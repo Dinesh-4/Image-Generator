@@ -1,0 +1,42 @@
+[
+  {
+    "title": "UNDERSTAND WHO YOUR TARGET MARKET IS",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eu odio in leo posuere ultrices.",
+    "title_pos": [100, 200],
+    "desc_pos": [100, 400],
+    "font_title_size": 60,
+    "font_desc_size": 32
+  },
+  {
+    "title": "CREATE A PROMOTION FUND BUDGET",
+    "desc": "Pellentesque pulvinar tristique elit. Pellentesque tincidunt suscipit nulla.",
+    "title_pos": [100, 200],
+    "desc_pos": [100, 400],
+    "font_title_size": 60,
+    "font_desc_size": 32
+  },
+  {
+    "title": "OPTIMIZING SOCIAL MEDIA AS MARKETING",
+    "desc": "Maecenas congue pellentesque arcu et laoreet. In ut libero at augue congue.",
+    "title_pos": [100, 200],
+    "desc_pos": [100, 400],
+    "font_title_size": 60,
+    "font_desc_size": 32
+  },
+  {
+    "title": "RUNNING A DROPSHIP OR RESELLER",
+    "desc": "Ut at enim ut augue varius sodales in non neque. Mauris fermentum.",
+    "title_pos": [100, 200],
+    "desc_pos": [100, 400],
+    "font_title_size": 60,
+    "font_desc_size": 32
+  },
+  {
+    "title": "UTILIZING DIGITAL MARKETING STRATEGIES",
+    "desc": "Vestibulum eget lacus eget enim convallis feugiat. Suspendisse eu neque.",
+    "title_pos": [100, 200],
+    "desc_pos": [100, 400],
+    "font_title_size": 60,
+    "font_desc_size": 32
+  }
+]
